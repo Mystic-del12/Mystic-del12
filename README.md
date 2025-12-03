@@ -31,7 +31,6 @@ I love exploring technology, breaking things, learning why they break, and build
 # 🛠 Tech Stack
 ### **Languages & Tools**
 | Python | Linux | VS Code | Cybersecurity Basics |
-|--------|--------|------|----------|----------------------|
 
 Badges:
 
