@@ -40,18 +40,16 @@ Badges:
   <img src="https://img.shields.io/badge/Cybersecurity-101319?style=for-the-badge&logo=protonvpn&logoColor=white"/>
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
+
+> ⚠️ **Stats temporarily unavailable**  
+> GitHub Readme Stats service is currently paused by the owner.  
+> Activity graph is shown below and stats will be restored once the service resumes.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mystic-del12&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-del12&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystic-del12&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 # 💬 Motto  
 > **“Curiosity is my superpower. Break → Learn → Build.”**
