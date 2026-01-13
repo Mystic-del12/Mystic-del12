@@ -13,6 +13,10 @@
 │  > awaiting input... _         │
 └────────────────────────────────┘
 ```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mystic-del12&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 </div>
 
 # 👋 Hey, I'm **Gorecha Meet (Mystic-del12)**  
