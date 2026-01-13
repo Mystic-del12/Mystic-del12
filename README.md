@@ -54,6 +54,11 @@ Badges:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystic-del12&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mystic-del12/output/github-contribution-grid-snake.svg" />
+</p>
 
 # 💬 Motto  
 > **“Curiosity is my superpower. Break → Learn → Build.”**
