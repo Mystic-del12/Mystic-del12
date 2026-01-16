@@ -34,8 +34,6 @@ I love exploring technology, breaking things, learning why they break, and build
 
 # 🛠 Tech Stack
 
-## ⚙️ Tech Stack (Animated)
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,php,html,css,tailwind&theme=dark" />
 </p>
