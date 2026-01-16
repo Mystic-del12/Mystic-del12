@@ -33,16 +33,19 @@ I love exploring technology, breaking things, learning why they break, and build
 - 🧠 Always learning, always experimenting
 
 # 🛠 Tech Stack
-### **Languages & Tools**
-| Python | Linux | VS Code | Cybersecurity Basics |
 
-Badges:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-101319?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-</p>
+🧠 Programming Languages
+<p> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> </p>
+🌐 Web Technologies
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>
+🧰 Tools & Environment
+<p> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white"/> </p>
+🖥️ Operating Systems
+<p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
+🗄️ Databases
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white"/> </p>
+🎯 Interests & Focus Areas
+<p> <img src="https://img.shields.io/badge/Cybersecurity-101319?style=for-the-badge&logo=protonvpn&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/> </p>
 
 ## 📈 GitHub Activity
 
