@@ -29,7 +29,7 @@ I love exploring technology, breaking things, learning why they break, and build
 - 🔐 Cybersecurity enthusiast  
 - 🐍 Python + automation beginner  
 - 🐧 Linux explorer  
-- 💻 IMCA student (Ahmedabad)  
+- 💻 IMCA student  
 - 🧠 Always learning, always experimenting
 
 # 🛠 Tech Stack
@@ -70,7 +70,7 @@ I love exploring technology, breaking things, learning why they break, and build
 </p> -->
 
 # 💬 Motto  
-> **“Curiosity is my superpower. Break → Learn → Build.”**
+> **“Curiosity is my superpower.”**
 
 # 📫 Contact  
 GitHub: [@Mystic-del12](https://github.com/Mystic-del12)  
