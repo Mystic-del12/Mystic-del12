@@ -53,16 +53,6 @@ I love exploring technology, breaking things, learning why they break, and build
     src="https://github-readme-streak-stats.herokuapp.com?user=Mystic-del12&theme=tokyonight&hide_border=true"
   />
 </p>
-<p align='left'>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mystic-del12&show_icons=true&theme=tokyonight"
-    />
-</p>
-<p align='right'>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-del12&layout=compact&theme=dracula"
-    />
-</p>
 
 # 💬 Motto  
 > **“Curiosity is my superpower.”**
