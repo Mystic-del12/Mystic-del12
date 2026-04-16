@@ -1,117 +1,111 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d62,100:00e0ff&height=200&section=header&text=Mystic-del12&fontSize=50&fontColor=00e0ff&fontAlignY=38&desc=Break%20→%20Learn%20→%20Build&descSize=16&descAlignY=60&descColor=ffffff&animation=fadeIn)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Break+%E2%86%92+Learn+%E2%86%92+Build;Building+InternPath+%F0%9F%9A%80;GSoC+%E2%80%9927+Prep+%7C+Pillow+%2F+ImageHash;AI+%7C+Open+Source+%7C+Linux" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=student+%7C+builder+%7C+breaker;python+%7C+linux+%7C+open+source;cybersecurity+%7C+networks+%7C+systems;always+learning+%7C+always+shipping" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mystic-del12&label=visitors&color=00e0ff&style=flat" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mystic-del12&label=Profile+Views&color=0e75b6&style=flat" />
+  &nbsp;
+  <a href="https://github.com/Mystic-del12?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mystic-del12?label=Followers&style=flat&color=0e75b6" />
+  </a>
+</p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+## `> whoami`
 
-```zsh
-$ whoami
-  mystic-del12
+Hi, I'm **Meet Gorecha** — a developer from India, studying at CPIA.
 
-$ cat interests.txt
-  → computer science
-  → cybersecurity & networks
-  → python & automation
-  → linux & open source
-  → AI tooling & local LLMs
+I build things at the intersection of **AI, open source, and developer tooling**. Right now I'm working on my [**Startup**](https://github.com/Mystic-del12) — an AI-powered student-to-internship matching platform for Indian students.
 
-$ uname -a
-  Fedora Linux | Plasma | X11
-
-$ uptime
-  always learning...
+```
+┌─────────────────────────────────────────────────┐
+│  location   →  In Terminal                      │
+│  current    →  Building InternPath              │
+│  next goal  →  GSoC 2027 (Pillow / ImageHash)   │
+│  stack      →  Python · Next.js · Supabase      │
+│  status     →  always building something        │
+└─────────────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
+---
+
+## `> ls projects/`
+
+### 🔍 [Duplicate-Imager](https://github.com/Mystic-del12/Duplicate-Imager)
+> Python CLI tool for detecting duplicate images using perceptual hashing (pHash / aHash / dHash).
+
+Meaningful GitHub traction. Built as a deep dive into image processing internals — now doubling as GSoC prep for Pillow/ImageHash contributions.
+
+`Python` `Pillow` `ImageHash` `CLI` `perceptual hashing`
 
 ---
 
-## `// tech`
+### Something Is Cooking *(in progress)*
+> AI-powered student-to-internship matching platform — built specifically for the Indian student market.
 
-<div align="center">
+Full-stack SaaS: AI matching engine, company-facing dashboard, student profiles, native AI. Targeting launch near end of 2026.
 
-**languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00e0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00e0ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00e0ff)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00e0ff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00e0ff)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00e0ff)
-
-**web & frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00e0ff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00e0ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00e0ff)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00e0ff)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00e0ff)
-
-**tools & systems**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00e0ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00e0ff)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e0ff)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00e0ff)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00e0ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00e0ff)
-
-**security & networking**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00e0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00e0ff)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00e0ff)
-
-</div>
+`Next.js` `Supabase` `Tailwind CSS` `AI` `TypeScript`
 
 ---
 
-## `// stats`
+## `> cat skills.txt`
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mystic-del12&theme=tokyonight&hide_border=true&background=0d1117&ring=00e0ff&fire=00e0ff&currStreakLabel=00e0ff" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,nextjs,react,tailwind&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,supabase&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,html,css,java,php&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mystic-del12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e0ff&icon_color=00e0ff&include_all_commits=true&count_private=true" height="160"/>
+**Also working with:** Ollama (local LLMs)
+
+---
+
+## `> git log --stat`
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mystic-del12&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mystic-del12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-del12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e0ff&layout=compact" height="160"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystic-del12&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystic-del12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e0ff&line=00e0ff&point=ffffff" />
-</div>
-
----
-
-## `// projects`
-
-<div align="center">
-
-[![Duplicate-Imager](https://github-readme-stats.vercel.app/api/pin/?username=Mystic-del12&repo=Duplicate-Imager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e0ff&icon_color=00e0ff)](https://github.com/Mystic-del12/Duplicate-Imager)
-
-</div>
-
-> 🔬 *something else is quietly being built.*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystic-del12&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## `> grep -r "interests" .`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,50:0a3d62,100:0d0d0d&height=120&section=footer)
+```python
+interests = [
+    "AI agent orchestration & local LLMs",
+    "Open source contribution",
+    "Developer tooling & CLI design",
+    "Pursuing my nerdy interests",
+    "Linux ricing & environment automation",
+]
+```
 
-</div>
+---
+
+## `> cat /etc/motd`
+
+> *"Break it. Understand why. Build it better."*
+
+---
+
+<p align="center">
+  <a href="https://github.com/Mystic-del12">
+    <img src="https://img.shields.io/badge/GitHub-Mystic--del12-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
