@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-Hi, I'm **Meet Gorecha** — a developer from India, studying at CPIA.
+Hi, I'm **Meet Gorecha** — a developer from India, studying at CPICA.
 
 I build things at the intersection of **AI, open source, and developer tooling**. Right now I'm working on my [**Startup**](https://github.com/Mystic-del12) — an AI-powered student-to-internship matching platform for Indian students.
 
