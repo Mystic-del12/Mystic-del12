@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Break+%E2%86%92+Learn+%E2%86%92+Build;GSoC+%E2%80%9927+Prep+%7C+Pillow+%2F+ImageHash;AI+%7C+Open+Source+%7C+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Break+%E2%86%92+Learn+%E2%86%92+Build;AI+%7C+Open+Source+%7C+Linux" />
 </div>
 
 <p align="center">
