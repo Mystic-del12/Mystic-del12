@@ -22,7 +22,7 @@ I build things at the intersection of **AI, open source, and developer tooling**
 ┌─────────────────────────────────────────────────┐
 │  location   →  In Terminal                      │
 │  current    →  Building An SaaS                 │
-│  next goal  →  GSoC 2027 (Pillow / ImageHash)   │
+│  next goal  →  GSoC 2027                        │
 │  stack      →  Python · Next.js · Supabase      │
 │  status     →  always building something        │
 └─────────────────────────────────────────────────┘
@@ -89,6 +89,7 @@ Full-stack SaaS: AI matching engine, company-facing dashboard, student profiles,
 ```python
 interests = [
     "AI agent orchestration & local LLMs",
+    "Fine-Tune LLMs in Free Time",
     "Open source contribution",
     "Developer tooling & CLI design",
     "Pursuing my nerdy interests",
